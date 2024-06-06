@@ -1,3 +1,3 @@
-# Laravel - Community Health Files
+# Artisan Build - Community Health Files
 
-This repository contains the default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [`laravel`](https://github.com/laravel) organization.
+This repository contains the default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [`Artisan Build`](https://github.com/artisan-build) organization.
