@@ -51,7 +51,7 @@ Connect with a network of passionate developers and agencies:
 | **Kibble** | Package Management System | Orchestrates our entire package ecosystem |
 | **Docsidian** | Obsidian to Web Publisher | Transforms Obsidian vaults into beautiful documentation |
 | **Mirror** | Reflection Tools | Enhanced code analysis and generation |
-| **Turbulence** | Event-Sourced Forms | Adds event-sourcing to Jetstream forms using Verbs |
+| **Turbulence** | Event-Sourced Auth | Adds event-sourcing to Laravel Jetstream using Verbs |
 | **Curator** | On-Demand Disk Management | Streamlined Laravel disk workflows |
 | **Fat-Enums** | Enum Enhancement | Supercharges PHP enums with state-machine capabilities |
 | **Adverbs** | Event Sourcing Extensions | Custom enhancements for rapid Verbs-driven development |
@@ -105,7 +105,7 @@ Ready to transform your ideas into reality at unprecedented speed? Let's build s
 
 <div align="center">
 
-[🌐 Website](https://artisan.build) | [📧 Contact Us](mailto:hello@artisan.build) | [💼 View Our Work](https://artisan.build/portfolio) | [👥 Join Our Community](https://artisan.community)
+[🌐 Website](https://artisan.build) | [📧 Contact Us](mailto:hello@artisan.build) | [👥 Join Our Community](https://artisan.community)
 
 </div>
 
