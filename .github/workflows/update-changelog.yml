@@ -24,7 +24,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Fetch entire history of repository to ensure relase date can be
+          # Fetch entire history of repository to ensure release date can be
           # extracted from commit of the given tag.
           fetch-depth: 0
           # Checkout target branch of this release. Ensures that the CHANGELOG
@@ -84,7 +84,7 @@ jobs:
           parse-github-usernames: true
 
       - name: Commit updated CHANGELOG
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           # Push updated CHANGELOG to release target branch.
           branch: ${{ inputs.branch }}

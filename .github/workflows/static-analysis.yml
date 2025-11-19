@@ -5,10 +5,7 @@ on:
 
 jobs:
   tests:
-    runs-on: ubuntu-22.04
-
-    strategy:
-      fail-fast: true
+    runs-on: ubuntu-latest
 
     name: Static Analysis
 
@@ -32,4 +29,4 @@ jobs:
           command: composer update --prefer-stable --prefer-dist --no-interaction --no-progress
 
       - name: Execute type checking
-        run: vendor/bin/phpstan
+        run: vendor/bin/phpstan --verbose
