@@ -1,114 +1,108 @@
-<p align="center"><a href="https://artisan.build" target="_blank"><img src="https://artisan.build/img/logo.png" height="400"></a></p>
+# Artisan Build  
+> *Confident, expert leadership for Laravel applications, specializing in TALL stack and NativePHP.*
 
-<div align="center">
+---
 
-# Artisan Build
-## Crafting Revenue-Driven Solutions at Breakneck Speed
+## 🌐 About Us  
+Artisan Build works with top agencies and ambitious organisations to make Laravel development better for everyone.  
+We provide steady, reliable engineering leadership, sharpen the workflow of development teams, and deliver practical, elegant solutions built on modern Laravel, the TALL stack, and NativePHP.
 
-</div>
+We focus on improving *how* teams build software, not only *what* they build, so delivery becomes calmer, faster, and more predictable.
 
-Artisan Build is the result of a highly compatible working partnership between industry veterans Len Woodward and Ed Grosvenor, bringing nearly three decades of combined expertise in PHP and Laravel development. We're not just developers; we're craftsmen who understand that in today's fast-paced business environment, **time-to-revenue** is the _critical_ metric that matters.
+---
 
-### Our Philosophy
+## What We Do  
 
-> "Speed without quality is a recipe for technical debt. Quality without speed is a missed opportunity. We deliver both."
+### 🧭 Fractional Team Leadership  
+We step into existing engineering teams as technical leaders.  
+We realign delivery, introduce clarity, stabilize processes, and help teams regain momentum with minimal disruption.
 
-We've mastered the art of rapid development without compromising on code quality or maintainability. Our success is built on three core pillars:
+### 📦 Product & Stakeholder Management  
+We bridge the gap between engineering and non-technical stakeholders to ensure the product solves the right problems at the right time.  
+Clear requirements, prioritized backlogs, transparent roadmaps.
 
-- 🚀 **Lightning-Fast Iteration**
-- 🏗️ **Battle-Tested Architecture**
-- 💎 **Maintainable Solutions**
+### 🧰 Tooling for Development Teams  
+We provide tooling to help teams deploy more confidently:  
+- visibility into technical health  
+- structured workflows  
+- process refinement  
+- upcoming internal tools such as **Scalpels**, a small, sharp suite of tools for development teams.
 
-### The Artisan Advantage
+### 🎓 Training & Mentorship  
+We help juniors become seniors and seniors become leaders through practical training, pairing, workshops, and standards coaching.
 
-What sets us apart is our innovative approach to development workflow. We've built our own ecosystem of tools and packages that enable unprecedented development velocity while maintaining the highest standards of code quality.
+### 🤖 Practical AI Integration  
+We bring AI into engineering workflows where it genuinely helps teams; no hype, no gimmicks.  
+A focus on automation, decision support, and technical-debt mapping.
 
-### Empowering the Developer Community
+### 🏗 Agency Overflow Support  
+For agencies with too much work and too few hands: we join your team, use your tools, and deliver to your standards to close capacity gaps.
 
-We believe in the power of community-driven development. **Every single one** our packages are **source-available**, enabling developers and agencies worldwide to:
+### 🚀 Co-Founder Support  
+For founders with access to hungry markets:  we act as a technical co-founder, owning engineering while you own market development.
 
-- 📖 Study and learn from our battle-tested solutions
-- 🔄 Replicate our high-efficiency workflows
-- 🛠️ Build upon our foundations
-- 🤝 Contribute to the ecosystem
+### 🔧 Ad Hoc Consulting  
+We solve tough Laravel and product problems on a flexible basis: architecture, debugging, performance, team structure, or specific blockers.
 
-#### Join Our Developer Community
+### 🧹 Technical Debt Reduction  
+A dedicated service for understanding and reducing technical debt.  
+We use our own AI-assisted diagnostic approach to map out the issues, prioritise the work, and modernise legacy Laravel applications.
 
-[artisan.community](https://artisan.community)
+---
 
-Connect with a network of passionate developers and agencies:
+## Our Approach  
 
-- 🎯 Access detailed internal documentation
-- 👥 Network with fellow developers
-- 💡 Share insights and experiences
-- 🆘 Get direct support from our team
-- 🌟 Collaborate on solutions
+### 1. Discovery  
+We analyse the product, the team, the workflow, and the biggest sources of friction.  
+We pay attention not just to code, but to the emotional health of the team.
 
-#### Our Most Popular Packages
+### 2. Integration  
+We introduce tools, processes, and improvements gradually, without taking control away from the team or disrupting delivery.
 
-| Tool | Purpose | Impact |
-|------|---------|---------|
-| **Kibble** | Package Management System | Orchestrates our entire package ecosystem |
-| **Docsidian** | Obsidian to Web Publisher | Transforms Obsidian vaults into beautiful documentation |
-| **Mirror** | Reflection Tools | Enhanced code analysis and generation |
-| **Turbulence** | Event-Sourced Auth | Adds event-sourcing to Laravel Jetstream using Verbs |
-| **Curator** | On-Demand Disk Management | Streamlined Laravel disk workflows |
-| **Fat-Enums** | Enum Enhancement | Supercharges PHP enums with state-machine capabilities |
-| **Adverbs** | Event Sourcing Extensions | Custom enhancements for rapid Verbs-driven development |
+### 3. Acceleration  
+We align everyone on a clear product direction, improve velocity, raise quality, and build a calmer and more resilient engineering culture.
 
-### The Dogfood Philosophy
+---
 
-We joke that we're a dogfood company, because we use everything that we build. Our [dogfood](https://github.com/artisan-build/dogfood) repository, powered by [Kibble](https://github.com/artisan-build/kibble), represents this commitment. This approach allows us to:
+## Our Values  
+- **Calm execution** over frantic sprints  
+- **Clarity** over noise  
+- **Tools that empower** rather than overwhelm  
+- **Deliverables shaped by reality**, not wishful planning  
+- **Partnerships, not transactions**
 
-- ✓ Test all packages simultaneously
-- ✓ Ensure perfect intercompatibility
-- ✓ Coordinate versioning and publishing effortlessly
-- ✓ Enforce quality standards across all packages
-- ✓ Deploy with confidence
+---
 
-### Our Process
+## Open-Source Philosophy  
+We believe development teams deserve tools that make their lives easier.  
+Our open-source work contributes back to the Laravel ecosystem and reflects our focus on clarity, maintainability, and practical usefulness.
 
-```mermaid
-graph LR
-    A[Rapid Prototyping] --> B[Iterative Development]
-    B --> C[Continuous Testing]
-    C --> D[Production Deployment]
-    D --> A
-```
+Upcoming projects include:  
+- **Scalpels** – A collection of precise, lightweight tools for teams.
 
-### Why Choose Artisan Build?
+---
 
-1. **Decades of Experience**
-   - Nearly 30 years combined PHP expertise
-   - Deep Laravel ecosystem knowledge
-   - Battle-tested architectural patterns
+## Repositories in This Organisation  
+Our GitHub organisation includes:  
+- Packages and tooling for Laravel / TALL / NativePHP  
+- Internal utilities made public once battle-tested  
+- Documentation resources  
+- Open-source experiments and lab projects  
+- Components used across partner applications
 
-2. **Proven Methodology**
-   - Custom-built workflow tools
-   - Integrated testing frameworks
-   - Automated quality assurance
+Each repository includes its own setup instructions and contribution guidelines.
 
-3. **Focus on Results**
-   - Rapid time-to-revenue
-   - Scalable solutions
-   - Maintainable codebases
+---
 
-4. **Community-Driven**
-   - Source-available packages
-   - Active developer community
-   - Direct access to expertise
-   - Comprehensive documentation
+## Connect with Us  
+- Website: [artisan.build ](https://artisan.build) 
+- Tech Debt Score: [phpscore.com](https://phpscore.com)  
+- Enquiries: hello@artisan.build
 
-### Get in Touch
+---
 
-Ready to transform your ideas into reality at unprecedented speed? Let's build something amazing together.
+## Thank You  
+Thank you for exploring our GitHub organisation.  
+Whether you’re an agency partner, developer, founder, or simply curious about our work, we’re glad you’re here.
 
-<div align="center">
-
-[🌐 Website](https://artisan.build) | [📧 Contact Us](mailto:hello@artisan.build) | [👥 Join Our Community](https://artisan.community)
-
-</div>
-
-<div align="center">
-  <sub>Built with ❤️ by Artisan Build and powered by our amazing developer community</sub>
-</div>
+*Let’s build software in a calmer, more confident way.*
