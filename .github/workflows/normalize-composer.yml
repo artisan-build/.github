@@ -4,7 +4,7 @@ on:
   workflow_call:
     inputs:
       php:
-        default: "8.4"
+        default: "8.5"
         type: string
       message:
         default: Normalize composer.json files
